@@ -23,7 +23,7 @@ The assignment is divided into two main parts:
 ---
 
 ### 🧰 Codelab 2: Building AI Agents with ADK — Empowering with Tools
-**Resource:** [Google Doc Link](#)
+**Resource:** [https://youtu.be/_rS5APdw5qA](#)
 
 **Topics Covered:**
 - Tool integration with ADK agents  
