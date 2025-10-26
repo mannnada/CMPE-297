@@ -12,7 +12,7 @@ The assignment is divided into two main parts:
 ## 🎯 Part A — ADK Codelabs Implementation
 
 ### 🧩 Codelab 1: From Prototypes to Agents with ADK
-**Resource:** [Google Doc Link](#)
+**Resource:** [https://youtu.be/ZsUlh6S6r3g](#)
 
 **Topics Covered:**
 - Introduction to ADK fundamentals  
