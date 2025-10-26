@@ -34,7 +34,7 @@ The assignment is divided into two main parts:
 ---
 
 ### 🌍 Codelab 3: Build a Travel Agent using MCP Toolbox
-**Resource:** [Google Doc Link](#)
+**Resource:** [https://youtu.be/WyCWNlNg8bQ](#)
 
 **Topics Covered:**
 - Model Context Protocol (MCP) integration  
