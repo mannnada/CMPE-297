@@ -56,6 +56,6 @@ Select one agent application from the **[Awesome ADK Agents Repository](https://
 - Add setup instructions, features, and challenges in documentation  
 
 ### Helpful Resource
-🎥 [ADK Master Class Video](#)
+🎥 [https://youtu.be/WyCWNlNg8bQ](#)
 
 ---
